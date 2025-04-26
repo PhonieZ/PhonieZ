@@ -1,1 +1,1 @@
-Hello! I am and have been a hobbyist programmer	for several years, with most of my experience being in Python. But I have used other languages, and am trying to move away from programming primarily in Python, and towards languages like Java and Javascript.
+
